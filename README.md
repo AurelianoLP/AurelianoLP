@@ -30,6 +30,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurelianoLP&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelianoLP&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Portfolio -->
+## Portfolio:
+- [HTML/CSS_PROJETO FLEXBOX](https://aurelianolp.github.io/ProjetoFlexbox/)
+
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
