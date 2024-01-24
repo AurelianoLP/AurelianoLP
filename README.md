@@ -8,7 +8,7 @@
 <p>
   👋 Formado em análise desenvolvimento de sistemas.
 
-  - 🌱 Estou Finalizando o curso de HTML/CSS da B7Web
+  - 🌱 Estou Finalizando o curso de javascript da B7Web
 
   - 🔭 Procura uma oprtunidade de trabalho na área da programação.
 </p>
