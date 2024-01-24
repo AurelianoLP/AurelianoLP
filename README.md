@@ -38,6 +38,7 @@
 - [HTML/CSS_PROJETO PAGINA_DE_LOGIN](https://aurelianolp.github.io/ProjetoTelaLogin/)
 - [HTML/CSS_PROJETO AWAX PAGINA COMPLETA RESPONSIVA](https://aurelianolp.github.io/ProjetoAwax/)
 - [HTML/CSS_PROJETO STARBUCKS UTILIZANDO GRID + FLEXBOX](https://aurelianolp.github.io/ProjetoStarbucks/)
+- [HTML/CSS/JAVA.S_PROJETO JOGO SIMPLES](https://aurelianolp.github.io/ProjetoJogoJS/)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
